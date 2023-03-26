@@ -1,13 +1,18 @@
 <div align="justify">
-In highly populated countries like India, food wastage is a disturbing issue. The streets, garbage bins and landfills have ample proof to prove it. Marriages, canteens, restaurants, social and family get-togethers and functions expel out so much food. Food wastage is not only an indication of hunger or pollution, but also of many economic problems. The high standard of living has resulted in the wastage of food, clothes, etc. because of quick changes in habits and lifestyle. Instead of wasting these things we can put them in use by donating them to various organizations such as orphanages, old age homes, etc. The product is an internet-based android application that basically aims at charity through donations.
-
-The proposed application shall reduce food wastage and also fulfill other requirements like clothes, books, utensils, etc. of needy organizations and peoples. 
-
-As mentioned above in the description there is a lot of food wastage that occurs daily at restaurants and cafes. Instead of throwing away the same as trash (which usually is the scenario), it can be used to feed the homeless. Also, since the pickup is arranged for by the enterprise, the restaurants/cafes need not worry about it. Benefiters will be both the restaurants/cafés (reducing the carbon footprint and wastage), and the needy. 
-
-The ultimate objective of this project is to communicate that investments in food wastage reduction is the most logical step in the pursuit of sustainable production and consumption, including food security, climate change and other adverse environmental effects. Public awareness materials and a strategy will be developed to this effect.
+Food community service involves volunteering your time and efforts to help provide food
+assistance to individuals and families in need. It is an opportunity to make a positive impact on
+the lives of those who are experiencing food insecurity or hunger.
+There are many ways to get involved in food community service. Some examples include
+volunteering at a local food bank or pantry, organizing food drives or fundraising events,
+participating in community garden projects, or serving meals at a homeless shelter or soup
+kitchen.
+By participating in food community service, you can help ensure that everyone in your
+community has access to nutritious food, regardless of their financial situation. It can also be a
+great way to meet new people, build relationships, and make a difference in the world.
+Overall, food community service is a meaningful and rewarding way to give back to your
+community, help those in need, and promote food security and access for all.
 </div>
-
+<p>This food hunger app developer and the project created for <b>SATHYASEELAN</b></p>
 Some screenshots of the Application: 
 <p align="center" float="left">
 <table>
