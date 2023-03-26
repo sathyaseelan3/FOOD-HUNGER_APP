@@ -12,7 +12,7 @@ great way to meet new people, build relationships, and make a difference in the 
 Overall, food community service is a meaningful and rewarding way to give back to your
 community, help those in need, and promote food security and access for all.
 </div>
-<p>This food hunger app developer and the project created for <b>SATHYASEELAN</b></p>
+<p>This food hunger app developer and the project created for <b>SATHYASEELAN.</b></p>
 Some screenshots of the Application: 
 <p align="center" float="left">
 <table>
