@@ -1,0 +1,206 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.sathyaseelan.foodhunger"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+8-->C:\Users\91863\Desktop\ORIGINAL\FOOD HUNGER\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->C:\Users\91863\Desktop\ORIGINAL\FOOD HUNGER\app\src\main\AndroidManifest.xml
+10    <!--
+11         The ACCESS_COARSE/FINE_LOCATION permissions are not required to use
+12         Google Maps Android API v2, but you must specify either coarse or fine
+13         location permissions for the "MyLocation" functionality.
+14    -->
+15    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+15-->C:\Users\91863\Desktop\ORIGINAL\FOOD HUNGER\app\src\main\AndroidManifest.xml:10:5-79
+15-->C:\Users\91863\Desktop\ORIGINAL\FOOD HUNGER\app\src\main\AndroidManifest.xml:10:22-76
+16    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+16-->C:\Users\91863\Desktop\ORIGINAL\FOOD HUNGER\app\src\main\AndroidManifest.xml:11:5-81
+16-->C:\Users\91863\Desktop\ORIGINAL\FOOD HUNGER\app\src\main\AndroidManifest.xml:11:22-78
+17    <uses-permission android:name="android.permission.INTERNET" />
+17-->C:\Users\91863\Desktop\ORIGINAL\FOOD HUNGER\app\src\main\AndroidManifest.xml:12:5-67
+17-->C:\Users\91863\Desktop\ORIGINAL\FOOD HUNGER\app\src\main\AndroidManifest.xml:12:22-64
+18
+19    <!-- Although the *SdkVersion is captured in gradle build files, this is required for non gradle builds -->
+20    <!-- <uses-sdk android:minSdkVersion="14"/> -->
+21    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+21-->[com.google.firebase:firebase-database:19.7.0] C:\Users\91863\Desktop\FOOD HUNGER\caches\transforms-2\files-2.1\52444c2ff3170a1ecfa3b53bb72316c1\jetified-firebase-database-19.7.0\AndroidManifest.xml:25:5-79
+21-->[com.google.firebase:firebase-database:19.7.0] C:\Users\91863\Desktop\FOOD HUNGER\caches\transforms-2\files-2.1\52444c2ff3170a1ecfa3b53bb72316c1\jetified-firebase-database-19.7.0\AndroidManifest.xml:25:22-76
+22
+23    <uses-feature
+23-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\91863\Desktop\FOOD HUNGER\caches\transforms-2\files-2.1\10c14f054cd9c2b8f427daa7191d6061\jetified-play-services-maps-17.0.0\AndroidManifest.xml:26:5-28:35
+24        android:glEsVersion="0x00020000"
+24-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\91863\Desktop\FOOD HUNGER\caches\transforms-2\files-2.1\10c14f054cd9c2b8f427daa7191d6061\jetified-play-services-maps-17.0.0\AndroidManifest.xml:27:9-41
+25        android:required="true" />
+25-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\91863\Desktop\FOOD HUNGER\caches\transforms-2\files-2.1\10c14f054cd9c2b8f427daa7191d6061\jetified-play-services-maps-17.0.0\AndroidManifest.xml:28:9-32
+26
+27    <application
+27-->C:\Users\91863\Desktop\ORIGINAL\FOOD HUNGER\app\src\main\AndroidManifest.xml:14:5-47:19
+28        android:name="androidx.multidex.MultiDexApplication"
+29        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+29-->[androidx.core:core:1.3.1] C:\Users\91863\Desktop\FOOD HUNGER\caches\transforms-2\files-2.1\6e9e0ee75e4980e8a5f452db022c8e65\core-1.3.1\AndroidManifest.xml:24:18-86
+30        android:debuggable="true"
+31        android:icon="@mipmap/ic_launcher"
+31-->C:\Users\91863\Desktop\ORIGINAL\FOOD HUNGER\app\src\main\AndroidManifest.xml:15:9-43
+32        android:label="@string/app_name"
+32-->C:\Users\91863\Desktop\ORIGINAL\FOOD HUNGER\app\src\main\AndroidManifest.xml:16:9-41
+33        android:roundIcon="@mipmap/ic_launcher_round"
+33-->C:\Users\91863\Desktop\ORIGINAL\FOOD HUNGER\app\src\main\AndroidManifest.xml:17:9-54
+34        android:supportsRtl="true"
+34-->C:\Users\91863\Desktop\ORIGINAL\FOOD HUNGER\app\src\main\AndroidManifest.xml:18:9-35
+35        android:theme="@style/Theme.AAHAARAPP" >
+35-->C:\Users\91863\Desktop\ORIGINAL\FOOD HUNGER\app\src\main\AndroidManifest.xml:19:9-47
+36        <activity android:name="com.sathyaseelan.foodhunger.UserdataActivity" />
+36-->C:\Users\91863\Desktop\ORIGINAL\FOOD HUNGER\app\src\main\AndroidManifest.xml:21:9-90
+36-->C:\Users\91863\Desktop\ORIGINAL\FOOD HUNGER\app\src\main\AndroidManifest.xml:21:19-78
+37        <activity android:name="com.sathyaseelan.foodhunger.History" />
+37-->C:\Users\91863\Desktop\ORIGINAL\FOOD HUNGER\app\src\main\AndroidManifest.xml:22:9-72
+37-->C:\Users\91863\Desktop\ORIGINAL\FOOD HUNGER\app\src\main\AndroidManifest.xml:22:19-69
+38        <activity android:name="com.sathyaseelan.foodhunger.MyPin" />
+38-->C:\Users\91863\Desktop\ORIGINAL\FOOD HUNGER\app\src\main\AndroidManifest.xml:23:9-70
+38-->C:\Users\91863\Desktop\ORIGINAL\FOOD HUNGER\app\src\main\AndroidManifest.xml:23:19-67
+39        <activity android:name="com.sathyaseelan.foodhunger.About" />
+39-->C:\Users\91863\Desktop\ORIGINAL\FOOD HUNGER\app\src\main\AndroidManifest.xml:24:9-70
+39-->C:\Users\91863\Desktop\ORIGINAL\FOOD HUNGER\app\src\main\AndroidManifest.xml:24:19-67
+40        <activity android:name="com.sathyaseelan.foodhunger.FoodMap" />
+40-->C:\Users\91863\Desktop\ORIGINAL\FOOD HUNGER\app\src\main\AndroidManifest.xml:25:9-72
+40-->C:\Users\91863\Desktop\ORIGINAL\FOOD HUNGER\app\src\main\AndroidManifest.xml:25:19-69
+41
+42        <meta-data
+42-->C:\Users\91863\Desktop\ORIGINAL\FOOD HUNGER\app\src\main\AndroidManifest.xml:27:9-29:71
+43            android:name="com.google.android.geo.API_KEY"
+43-->C:\Users\91863\Desktop\ORIGINAL\FOOD HUNGER\app\src\main\AndroidManifest.xml:28:13-58
+44            android:value="AIzaSyBtAubRGSlTZanGLTPT3JrKWsRCFAXZzrE" />
+44-->C:\Users\91863\Desktop\ORIGINAL\FOOD HUNGER\app\src\main\AndroidManifest.xml:29:13-68
+45
+46        <activity android:name="com.sathyaseelan.foodhunger.Receive" />
+46-->C:\Users\91863\Desktop\ORIGINAL\FOOD HUNGER\app\src\main\AndroidManifest.xml:31:9-72
+46-->C:\Users\91863\Desktop\ORIGINAL\FOOD HUNGER\app\src\main\AndroidManifest.xml:31:19-69
+47        <activity android:name="com.sathyaseelan.foodhunger.Contact" />
+47-->C:\Users\91863\Desktop\ORIGINAL\FOOD HUNGER\app\src\main\AndroidManifest.xml:32:9-72
+47-->C:\Users\91863\Desktop\ORIGINAL\FOOD HUNGER\app\src\main\AndroidManifest.xml:32:19-69
+48        <activity android:name="com.sathyaseelan.foodhunger.Signup" />
+48-->C:\Users\91863\Desktop\ORIGINAL\FOOD HUNGER\app\src\main\AndroidManifest.xml:33:9-71
+48-->C:\Users\91863\Desktop\ORIGINAL\FOOD HUNGER\app\src\main\AndroidManifest.xml:33:19-68
+49        <activity android:name="com.sathyaseelan.foodhunger.Logup" />
+49-->C:\Users\91863\Desktop\ORIGINAL\FOOD HUNGER\app\src\main\AndroidManifest.xml:34:9-70
+49-->C:\Users\91863\Desktop\ORIGINAL\FOOD HUNGER\app\src\main\AndroidManifest.xml:34:19-67
+50        <activity android:name="com.sathyaseelan.foodhunger.MainActivity" />
+50-->C:\Users\91863\Desktop\ORIGINAL\FOOD HUNGER\app\src\main\AndroidManifest.xml:35:9-77
+50-->C:\Users\91863\Desktop\ORIGINAL\FOOD HUNGER\app\src\main\AndroidManifest.xml:35:19-74
+51        <activity android:name="com.sathyaseelan.foodhunger.Donate" />
+51-->C:\Users\91863\Desktop\ORIGINAL\FOOD HUNGER\app\src\main\AndroidManifest.xml:36:9-71
+51-->C:\Users\91863\Desktop\ORIGINAL\FOOD HUNGER\app\src\main\AndroidManifest.xml:36:19-68
+52        <activity android:name="com.sathyaseelan.foodhunger.landingpage" />
+52-->C:\Users\91863\Desktop\ORIGINAL\FOOD HUNGER\app\src\main\AndroidManifest.xml:37:9-76
+52-->C:\Users\91863\Desktop\ORIGINAL\FOOD HUNGER\app\src\main\AndroidManifest.xml:37:19-73
+53        <activity
+53-->C:\Users\91863\Desktop\ORIGINAL\FOOD HUNGER\app\src\main\AndroidManifest.xml:38:9-46:20
+54            android:name="com.sathyaseelan.foodhunger.SplashScreen"
+54-->C:\Users\91863\Desktop\ORIGINAL\FOOD HUNGER\app\src\main\AndroidManifest.xml:39:13-68
+55            android:theme="@style/SplashScreen" >
+55-->C:\Users\91863\Desktop\ORIGINAL\FOOD HUNGER\app\src\main\AndroidManifest.xml:40:13-48
+56            <intent-filter>
+56-->C:\Users\91863\Desktop\ORIGINAL\FOOD HUNGER\app\src\main\AndroidManifest.xml:41:13-45:29
+57                <action android:name="android.intent.action.MAIN" />
+57-->C:\Users\91863\Desktop\ORIGINAL\FOOD HUNGER\app\src\main\AndroidManifest.xml:42:17-69
+57-->C:\Users\91863\Desktop\ORIGINAL\FOOD HUNGER\app\src\main\AndroidManifest.xml:42:25-66
+58
+59                <category android:name="android.intent.category.LAUNCHER" />
+59-->C:\Users\91863\Desktop\ORIGINAL\FOOD HUNGER\app\src\main\AndroidManifest.xml:44:17-77
+59-->C:\Users\91863\Desktop\ORIGINAL\FOOD HUNGER\app\src\main\AndroidManifest.xml:44:27-74
+60            </intent-filter>
+61        </activity>
+62        <activity
+62-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\91863\Desktop\FOOD HUNGER\caches\transforms-2\files-2.1\7d78cdb3ef7c9fd31f2cf2826411daec\jetified-firebase-auth-19.2.0\AndroidManifest.xml:24:9-31:50
+63            android:name="com.google.firebase.auth.internal.FederatedSignInActivity"
+63-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\91863\Desktop\FOOD HUNGER\caches\transforms-2\files-2.1\7d78cdb3ef7c9fd31f2cf2826411daec\jetified-firebase-auth-19.2.0\AndroidManifest.xml:25:13-85
+64            android:excludeFromRecents="true"
+64-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\91863\Desktop\FOOD HUNGER\caches\transforms-2\files-2.1\7d78cdb3ef7c9fd31f2cf2826411daec\jetified-firebase-auth-19.2.0\AndroidManifest.xml:26:13-46
+65            android:exported="true"
+65-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\91863\Desktop\FOOD HUNGER\caches\transforms-2\files-2.1\7d78cdb3ef7c9fd31f2cf2826411daec\jetified-firebase-auth-19.2.0\AndroidManifest.xml:27:13-36
+66            android:launchMode="singleTask"
+66-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\91863\Desktop\FOOD HUNGER\caches\transforms-2\files-2.1\7d78cdb3ef7c9fd31f2cf2826411daec\jetified-firebase-auth-19.2.0\AndroidManifest.xml:28:13-44
+67            android:permission="com.google.firebase.auth.api.gms.permission.LAUNCH_FEDERATED_SIGN_IN"
+67-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\91863\Desktop\FOOD HUNGER\caches\transforms-2\files-2.1\7d78cdb3ef7c9fd31f2cf2826411daec\jetified-firebase-auth-19.2.0\AndroidManifest.xml:29:13-102
+68            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+68-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\91863\Desktop\FOOD HUNGER\caches\transforms-2\files-2.1\7d78cdb3ef7c9fd31f2cf2826411daec\jetified-firebase-auth-19.2.0\AndroidManifest.xml:30:13-72
+69
+70        <service
+70-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\91863\Desktop\FOOD HUNGER\caches\transforms-2\files-2.1\7d78cdb3ef7c9fd31f2cf2826411daec\jetified-firebase-auth-19.2.0\AndroidManifest.xml:33:9-39:19
+71            android:name="com.google.firebase.components.ComponentDiscoveryService"
+71-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\91863\Desktop\FOOD HUNGER\caches\transforms-2\files-2.1\7d78cdb3ef7c9fd31f2cf2826411daec\jetified-firebase-auth-19.2.0\AndroidManifest.xml:34:13-84
+72            android:directBootAware="true"
+72-->[com.google.firebase:firebase-common:19.5.0] C:\Users\91863\Desktop\FOOD HUNGER\caches\transforms-2\files-2.1\f2bdd676122f0c1cdba148d108137c18\jetified-firebase-common-19.5.0\AndroidManifest.xml:35:13-43
+73            android:exported="false" >
+73-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\91863\Desktop\FOOD HUNGER\caches\transforms-2\files-2.1\7d78cdb3ef7c9fd31f2cf2826411daec\jetified-firebase-auth-19.2.0\AndroidManifest.xml:35:13-37
+74            <meta-data
+74-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\91863\Desktop\FOOD HUNGER\caches\transforms-2\files-2.1\7d78cdb3ef7c9fd31f2cf2826411daec\jetified-firebase-auth-19.2.0\AndroidManifest.xml:36:13-38:85
+75                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
+75-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\91863\Desktop\FOOD HUNGER\caches\transforms-2\files-2.1\7d78cdb3ef7c9fd31f2cf2826411daec\jetified-firebase-auth-19.2.0\AndroidManifest.xml:37:17-109
+76                android:value="com.google.firebase.components.ComponentRegistrar" />
+76-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\91863\Desktop\FOOD HUNGER\caches\transforms-2\files-2.1\7d78cdb3ef7c9fd31f2cf2826411daec\jetified-firebase-auth-19.2.0\AndroidManifest.xml:38:17-82
+77            <meta-data
+77-->[com.google.firebase:firebase-database:19.7.0] C:\Users\91863\Desktop\FOOD HUNGER\caches\transforms-2\files-2.1\52444c2ff3170a1ecfa3b53bb72316c1\jetified-firebase-database-19.7.0\AndroidManifest.xml:32:13-34:85
+78                android:name="com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar"
+78-->[com.google.firebase:firebase-database:19.7.0] C:\Users\91863\Desktop\FOOD HUNGER\caches\transforms-2\files-2.1\52444c2ff3170a1ecfa3b53bb72316c1\jetified-firebase-database-19.7.0\AndroidManifest.xml:33:17-109
+79                android:value="com.google.firebase.components.ComponentRegistrar" />
+79-->[com.google.firebase:firebase-database:19.7.0] C:\Users\91863\Desktop\FOOD HUNGER\caches\transforms-2\files-2.1\52444c2ff3170a1ecfa3b53bb72316c1\jetified-firebase-database-19.7.0\AndroidManifest.xml:34:17-82
+80            <meta-data
+80-->[com.google.firebase:firebase-firestore:22.1.2] C:\Users\91863\Desktop\FOOD HUNGER\caches\transforms-2\files-2.1\a218b6430f575ba9f34664e949825b00\jetified-firebase-firestore-22.1.2\AndroidManifest.xml:20:13-22:85
+81                android:name="com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar"
+81-->[com.google.firebase:firebase-firestore:22.1.2] C:\Users\91863\Desktop\FOOD HUNGER\caches\transforms-2\files-2.1\a218b6430f575ba9f34664e949825b00\jetified-firebase-firestore-22.1.2\AndroidManifest.xml:21:17-111
+82                android:value="com.google.firebase.components.ComponentRegistrar" />
+82-->[com.google.firebase:firebase-firestore:22.1.2] C:\Users\91863\Desktop\FOOD HUNGER\caches\transforms-2\files-2.1\a218b6430f575ba9f34664e949825b00\jetified-firebase-firestore-22.1.2\AndroidManifest.xml:22:17-82
+83            <!--
+84                This registrar is not defined in the dynamic-module-support sdk itself to allow non-firebase
+85                clients to use it as well, by defining this registrar in their own core/common library.
+86            -->
+87            <meta-data
+87-->[com.google.firebase:firebase-common:19.5.0] C:\Users\91863\Desktop\FOOD HUNGER\caches\transforms-2\files-2.1\f2bdd676122f0c1cdba148d108137c18\jetified-firebase-common-19.5.0\AndroidManifest.xml:43:13-45:85
+88                android:name="com.google.firebase.components:com.google.firebase.dynamicloading.DynamicLoadingRegistrar"
+88-->[com.google.firebase:firebase-common:19.5.0] C:\Users\91863\Desktop\FOOD HUNGER\caches\transforms-2\files-2.1\f2bdd676122f0c1cdba148d108137c18\jetified-firebase-common-19.5.0\AndroidManifest.xml:44:17-121
+89                android:value="com.google.firebase.components.ComponentRegistrar" />
+89-->[com.google.firebase:firebase-common:19.5.0] C:\Users\91863\Desktop\FOOD HUNGER\caches\transforms-2\files-2.1\f2bdd676122f0c1cdba148d108137c18\jetified-firebase-common-19.5.0\AndroidManifest.xml:45:17-82
+90        </service> <!-- Needs to be explicitly declared on P+ -->
+91        <uses-library
+91-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\91863\Desktop\FOOD HUNGER\caches\transforms-2\files-2.1\10c14f054cd9c2b8f427daa7191d6061\jetified-play-services-maps-17.0.0\AndroidManifest.xml:33:9-35:40
+92            android:name="org.apache.http.legacy"
+92-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\91863\Desktop\FOOD HUNGER\caches\transforms-2\files-2.1\10c14f054cd9c2b8f427daa7191d6061\jetified-play-services-maps-17.0.0\AndroidManifest.xml:34:13-50
+93            android:required="false" />
+93-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\91863\Desktop\FOOD HUNGER\caches\transforms-2\files-2.1\10c14f054cd9c2b8f427daa7191d6061\jetified-play-services-maps-17.0.0\AndroidManifest.xml:35:13-37
+94
+95        <activity
+95-->[com.google.android.gms:play-services-base:17.5.0] C:\Users\91863\Desktop\FOOD HUNGER\caches\transforms-2\files-2.1\bfa0412307817d8381d7cb85fd81535d\jetified-play-services-base-17.5.0\AndroidManifest.xml:23:9-26:75
+96            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+96-->[com.google.android.gms:play-services-base:17.5.0] C:\Users\91863\Desktop\FOOD HUNGER\caches\transforms-2\files-2.1\bfa0412307817d8381d7cb85fd81535d\jetified-play-services-base-17.5.0\AndroidManifest.xml:24:13-79
+97            android:exported="false"
+97-->[com.google.android.gms:play-services-base:17.5.0] C:\Users\91863\Desktop\FOOD HUNGER\caches\transforms-2\files-2.1\bfa0412307817d8381d7cb85fd81535d\jetified-play-services-base-17.5.0\AndroidManifest.xml:25:13-37
+98            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+98-->[com.google.android.gms:play-services-base:17.5.0] C:\Users\91863\Desktop\FOOD HUNGER\caches\transforms-2\files-2.1\bfa0412307817d8381d7cb85fd81535d\jetified-play-services-base-17.5.0\AndroidManifest.xml:26:13-72
+99
+100        <provider
+100-->[com.google.firebase:firebase-common:19.5.0] C:\Users\91863\Desktop\FOOD HUNGER\caches\transforms-2\files-2.1\f2bdd676122f0c1cdba148d108137c18\jetified-firebase-common-19.5.0\AndroidManifest.xml:26:9-31:39
+101            android:name="com.google.firebase.provider.FirebaseInitProvider"
+101-->[com.google.firebase:firebase-common:19.5.0] C:\Users\91863\Desktop\FOOD HUNGER\caches\transforms-2\files-2.1\f2bdd676122f0c1cdba148d108137c18\jetified-firebase-common-19.5.0\AndroidManifest.xml:27:13-77
+102            android:authorities="com.sathyaseelan.foodhunger.firebaseinitprovider"
+102-->[com.google.firebase:firebase-common:19.5.0] C:\Users\91863\Desktop\FOOD HUNGER\caches\transforms-2\files-2.1\f2bdd676122f0c1cdba148d108137c18\jetified-firebase-common-19.5.0\AndroidManifest.xml:28:13-72
+103            android:directBootAware="true"
+103-->[com.google.firebase:firebase-common:19.5.0] C:\Users\91863\Desktop\FOOD HUNGER\caches\transforms-2\files-2.1\f2bdd676122f0c1cdba148d108137c18\jetified-firebase-common-19.5.0\AndroidManifest.xml:29:13-43
+104            android:exported="false"
+104-->[com.google.firebase:firebase-common:19.5.0] C:\Users\91863\Desktop\FOOD HUNGER\caches\transforms-2\files-2.1\f2bdd676122f0c1cdba148d108137c18\jetified-firebase-common-19.5.0\AndroidManifest.xml:30:13-37
+105            android:initOrder="100" />
+105-->[com.google.firebase:firebase-common:19.5.0] C:\Users\91863\Desktop\FOOD HUNGER\caches\transforms-2\files-2.1\f2bdd676122f0c1cdba148d108137c18\jetified-firebase-common-19.5.0\AndroidManifest.xml:31:13-36
+106
+107        <meta-data
+107-->[com.google.android.gms:play-services-basement:17.5.0] C:\Users\91863\Desktop\FOOD HUNGER\caches\transforms-2\files-2.1\55989eb55dad23bad824f591a4b3a98b\jetified-play-services-basement-17.5.0\AndroidManifest.xml:23:9-25:69
+108            android:name="com.google.android.gms.version"
+108-->[com.google.android.gms:play-services-basement:17.5.0] C:\Users\91863\Desktop\FOOD HUNGER\caches\transforms-2\files-2.1\55989eb55dad23bad824f591a4b3a98b\jetified-play-services-basement-17.5.0\AndroidManifest.xml:24:13-58
+109            android:value="@integer/google_play_services_version" />
+109-->[com.google.android.gms:play-services-basement:17.5.0] C:\Users\91863\Desktop\FOOD HUNGER\caches\transforms-2\files-2.1\55989eb55dad23bad824f591a4b3a98b\jetified-play-services-basement-17.5.0\AndroidManifest.xml:25:13-66
+110    </application>
+111
+112</manifest>

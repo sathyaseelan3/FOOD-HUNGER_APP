@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "854274495249",
+    "project_id": "food-community-service",
+    "storage_bucket": "food-community-service.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:854274495249:android:1e8b66897770a44f1632b0",
+        "android_client_info": {
+          "package_name": "com.sathyaseelan.foodhunger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "854274495249-q7ik4phgg48gv2g0q1qmmmrejjsk77vl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyB1EME2OUcUtgjmQmfe6IUy4IMBS__KU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "854274495249-q7ik4phgg48gv2g0q1qmmmrejjsk77vl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

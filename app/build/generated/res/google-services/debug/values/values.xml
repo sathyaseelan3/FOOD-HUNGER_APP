@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">854274495249-q7ik4phgg48gv2g0q1qmmmrejjsk77vl.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">854274495249</string>
+    <string name="google_api_key" translatable="false">AIzaSyAyB1EME2OUcUtgjmQmfe6IUy4IMBS__KU</string>
+    <string name="google_app_id" translatable="false">1:854274495249:android:1e8b66897770a44f1632b0</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAyB1EME2OUcUtgjmQmfe6IUy4IMBS__KU</string>
+    <string name="google_storage_bucket" translatable="false">food-community-service.appspot.com</string>
+    <string name="project_id" translatable="false">food-community-service</string>
+</resources>

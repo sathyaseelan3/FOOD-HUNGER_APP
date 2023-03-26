@@ -1,0 +1,374 @@
+[
+    {
+        "merged": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\build\\intermediates\\res\\merged\\debug\\drawable_round_background.xml.flat",
+        "source": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\src\\main\\res\\drawable\\round_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\build\\intermediates\\res\\merged\\debug\\drawable_twitter.png.flat",
+        "source": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\src\\main\\res\\drawable\\twitter.png"
+    },
+    {
+        "merged": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\build\\intermediates\\res\\merged\\debug\\drawable_lgout.png.flat",
+        "source": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\src\\main\\res\\drawable\\lgout.png"
+    },
+    {
+        "merged": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\build\\intermediates\\res\\merged\\debug\\drawable_facebook.png.flat",
+        "source": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\src\\main\\res\\drawable\\facebook.png"
+    },
+    {
+        "merged": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_logup.xml.flat",
+        "source": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\src\\main\\res\\layout\\activity_logup.xml"
+    },
+    {
+        "merged": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bthre.png.flat",
+        "source": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\src\\main\\res\\drawable\\bthre.png"
+    },
+    {
+        "merged": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\build\\intermediates\\res\\merged\\debug\\drawable_side_nav_bar.xml.flat",
+        "source": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\build\\intermediates\\res\\merged\\debug\\drawable_map.png.flat",
+        "source": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\src\\main\\res\\drawable\\map.png"
+    },
+    {
+        "merged": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\build\\intermediates\\res\\merged\\debug\\drawable_instagram.png.flat",
+        "source": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\src\\main\\res\\drawable\\instagram.png"
+    },
+    {
+        "merged": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\build\\intermediates\\res\\merged\\debug\\font_blinker_bold.ttf.flat",
+        "source": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\src\\main\\res\\font\\blinker_bold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_landingpage.xml.flat",
+        "source": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\src\\main\\res\\layout\\activity_landingpage.xml"
+    },
+    {
+        "merged": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bfore.jpg.flat",
+        "source": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\src\\main\\res\\drawable\\bfore.jpg"
+    },
+    {
+        "merged": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_gradient.xml.flat",
+        "source": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\src\\main\\res\\drawable\\button_gradient.xml"
+    },
+    {
+        "merged": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\build\\intermediates\\res\\merged\\debug\\font_opensans_regular.ttf.flat",
+        "source": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\src\\main\\res\\font\\opensans_regular.ttf"
+    },
+    {
+        "merged": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\build\\intermediates\\res\\merged\\debug\\drawable_transparent_bg_bordered.xml.flat",
+        "source": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\src\\main\\res\\drawable\\transparent_bg_bordered.xml"
+    },
+    {
+        "merged": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_menu_slideshow.xml.flat",
+        "source": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_signup.xml.flat",
+        "source": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\src\\main\\res\\layout\\activity_signup.xml"
+    },
+    {
+        "merged": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\build\\intermediates\\res\\merged\\debug\\font_abel.ttf.flat",
+        "source": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\src\\main\\res\\font\\abel.ttf"
+    },
+    {
+        "merged": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bthree.jpg.flat",
+        "source": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\src\\main\\res\\drawable\\bthree.jpg"
+    },
+    {
+        "merged": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mypins.png.flat",
+        "source": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\src\\main\\res\\drawable\\mypins.png"
+    },
+    {
+        "merged": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\build\\intermediates\\res\\merged\\debug\\font_opensans.ttf.flat",
+        "source": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\src\\main\\res\\font\\opensans.ttf"
+    },
+    {
+        "merged": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_contact.xml.flat",
+        "source": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\src\\main\\res\\layout\\activity_contact.xml"
+    },
+    {
+        "merged": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_rounded.xml.flat",
+        "source": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\src\\main\\res\\drawable\\button_rounded.xml"
+    },
+    {
+        "merged": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo.png.flat",
+        "source": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\build\\intermediates\\res\\merged\\debug\\drawable_foodhunger.png.flat",
+        "source": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\src\\main\\res\\drawable\\foodhunger.png"
+    },
+    {
+        "merged": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rcv.png.flat",
+        "source": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\src\\main\\res\\drawable\\rcv.png"
+    },
+    {
+        "merged": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\build\\intermediates\\res\\merged\\debug\\font_nunitosans_semibold.ttf.flat",
+        "source": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\src\\main\\res\\font\\nunitosans_semibold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\build\\intermediates\\res\\merged\\debug\\drawable_contact.png.flat",
+        "source": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\src\\main\\res\\drawable\\contact.png"
+    },
+    {
+        "merged": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\build\\intermediates\\res\\merged\\debug\\font_blinker_regular.ttf.flat",
+        "source": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\src\\main\\res\\font\\blinker_regular.ttf"
+    },
+    {
+        "merged": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background_splashscreen.xml.flat",
+        "source": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\src\\main\\res\\drawable\\background_splashscreen.xml"
+    },
+    {
+        "merged": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\build\\intermediates\\res\\merged\\debug\\font_nunitosans_bold.ttf.flat",
+        "source": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\src\\main\\res\\font\\nunitosans_bold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bone.jpg.flat",
+        "source": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\src\\main\\res\\drawable\\bone.jpg"
+    },
+    {
+        "merged": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\build\\intermediates\\res\\merged\\debug\\color_button_text_color.xml.flat",
+        "source": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\src\\main\\res\\color\\button_text_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\build\\intermediates\\res\\merged\\debug\\font_blinker_light.ttf.flat",
+        "source": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\src\\main\\res\\font\\blinker_light.ttf"
+    },
+    {
+        "merged": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\build\\intermediates\\res\\merged\\debug\\drawable_donate.png.flat",
+        "source": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\src\\main\\res\\drawable\\donate.png"
+    },
+    {
+        "merged": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_donate.xml.flat",
+        "source": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\src\\main\\res\\layout\\activity_donate.xml"
+    },
+    {
+        "merged": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rcv1.png.flat",
+        "source": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\src\\main\\res\\drawable\\rcv1.png"
+    },
+    {
+        "merged": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\build\\intermediates\\res\\merged\\debug\\font_opensans_light.ttf.flat",
+        "source": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\src\\main\\res\\font\\opensans_light.ttf"
+    },
+    {
+        "merged": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_my_pin.xml.flat",
+        "source": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\src\\main\\res\\layout\\activity_my_pin.xml"
+    },
+    {
+        "merged": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_menu_camera.xml.flat",
+        "source": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_menu_camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\build\\intermediates\\res\\merged\\debug\\layout_singlerow.xml.flat",
+        "source": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\src\\main\\res\\layout\\singlerow.xml"
+    },
+    {
+        "merged": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\build\\intermediates\\res\\merged\\debug\\font_nunitosans_light.ttf.flat",
+        "source": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\src\\main\\res\\font\\nunitosans_light.ttf"
+    },
+    {
+        "merged": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\build\\intermediates\\res\\merged\\debug\\drawable_six.png.flat",
+        "source": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\src\\main\\res\\drawable\\six.png"
+    },
+    {
+        "merged": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\build\\intermediates\\res\\merged\\debug\\drawable_three.png.flat",
+        "source": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\src\\main\\res\\drawable\\three.png"
+    },
+    {
+        "merged": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\build\\intermediates\\res\\merged\\debug\\drawable_recieve.png.flat",
+        "source": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\src\\main\\res\\drawable\\recieve.png"
+    },
+    {
+        "merged": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\build\\intermediates\\res\\merged\\debug\\layout_userdata.xml.flat",
+        "source": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\src\\main\\res\\layout\\userdata.xml"
+    },
+    {
+        "merged": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\build\\intermediates\\res\\merged\\debug\\drawable_add.png.flat",
+        "source": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\src\\main\\res\\drawable\\add.png"
+    },
+    {
+        "merged": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\build\\intermediates\\res\\merged\\debug\\color_edit_text_box_border.xml.flat",
+        "source": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\src\\main\\res\\color\\edit_text_box_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\build\\intermediates\\res\\merged\\debug\\drawable_about.png.flat",
+        "source": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\src\\main\\res\\drawable\\about.png"
+    },
+    {
+        "merged": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_main_drawer.xml.flat",
+        "source": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\src\\main\\res\\menu\\activity_main_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btwo.jpg.flat",
+        "source": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\src\\main\\res\\drawable\\btwo.jpg"
+    },
+    {
+        "merged": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\build\\intermediates\\res\\merged\\debug\\menu_drawer.xml.flat",
+        "source": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\src\\main\\res\\menu\\drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_receive.xml.flat",
+        "source": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\src\\main\\res\\layout\\activity_receive.xml"
+    },
+    {
+        "merged": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gradient.xml.flat",
+        "source": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\src\\main\\res\\drawable\\gradient.xml"
+    },
+    {
+        "merged": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\build\\intermediates\\res\\merged\\debug\\drawable_loggout.png.flat",
+        "source": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\src\\main\\res\\drawable\\loggout.png"
+    },
+    {
+        "merged": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_menu_gallery.xml.flat",
+        "source": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_menu_gallery.xml"
+    },
+    {
+        "merged": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_food_map.xml.flat",
+        "source": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\src\\main\\res\\layout\\activity_food_map.xml"
+    },
+    {
+        "merged": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\build\\intermediates\\res\\merged\\debug\\drawable_splash.png.flat",
+        "source": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\src\\main\\res\\drawable\\splash.png"
+    },
+    {
+        "merged": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btwoo.png.flat",
+        "source": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\src\\main\\res\\drawable\\btwoo.png"
+    },
+    {
+        "merged": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\build\\intermediates\\res\\merged\\debug\\drawable_history.png.flat",
+        "source": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\src\\main\\res\\drawable\\history.png"
+    },
+    {
+        "merged": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bthreee.jpg.flat",
+        "source": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\src\\main\\res\\drawable\\bthreee.jpg"
+    },
+    {
+        "merged": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\build\\intermediates\\res\\merged\\debug\\font_comfort.ttf.flat",
+        "source": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\src\\main\\res\\font\\comfort.ttf"
+    },
+    {
+        "merged": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logout.png.flat",
+        "source": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\src\\main\\res\\drawable\\logout.png"
+    },
+    {
+        "merged": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\build\\intermediates\\res\\merged\\debug\\color_button_background_color.xml.flat",
+        "source": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\src\\main\\res\\color\\button_background_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\build\\intermediates\\res\\merged\\debug\\font_exo.ttf.flat",
+        "source": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\src\\main\\res\\font\\exo.ttf"
+    },
+    {
+        "merged": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_history.xml.flat",
+        "source": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\src\\main\\res\\layout\\activity_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_about.xml.flat",
+        "source": "C:\\Users\\91863\\Desktop\\ORIGINAL\\FOOD HUNGER\\app\\src\\main\\res\\layout\\activity_about.xml"
+    }
+]
